@@ -1,6 +1,6 @@
 import React from "react";
 import './NavBar.css'
-import logo from "./imgs/logotugeder.jpg"
+import logo from "../imgs/logotugeder.jpg"
 
 const Header = () =>{
     return(
